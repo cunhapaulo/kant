@@ -8,11 +8,10 @@
             width: 100%;
             border-collapse: collapse;
             font-family: "Merriweather Sans", "Fira Sans" !important, sans-serif, Arial, Helvetica;
-            font-family: default;
             font-size: 14px;
         }
         th, td {
-            border: 1px solid #ccc;
+            border: 0.5px solid #ccc;
             padding: 12px;
             text-align: center !important;
             vertical-align: middle !important;
@@ -24,10 +23,10 @@
         
         /* Coluna de Horários */        
         .time-column {
-            background-color: #ffcc99;
+            background-color: #ff6333;
             font-weight: bold;
             vertical-align: middle !important;
-            width: 10%;
+            width: 15%;
         }
         
         /* Linha de Intervalo */
@@ -50,17 +49,18 @@
         }
         .mediator {
             font-size: 12px;
-            color: #df0c05;
+            color: #7c0000;
             margin-bottom: 15px;
         }
         .speaker {
             font-size: 15px;
-            color: #2d489e !important;
+            color: #0f40e4 !important;
             font-weight: bold;
             margin-top: 10px;
         }
         .talk-title {
             font-size: 14px;
+            color: #5568a7 !important;
             font-style: italic;
             margin-bottom: 10px;
         }

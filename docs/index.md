@@ -8,7 +8,7 @@
 Belém, 24 a 26 de agosto de 2026 <br>
 
 <span class="event-info">Local:</span><br>
-UINVERSIDADE FEDERAL DO PARÁ<br>
+UNIVERSIDADE FEDERAL DO PARÁ<br>
 Instituto de Filosofia e Ciências Humanas (IFCH) <br>
 Laboratório de Filosofia <br>
 

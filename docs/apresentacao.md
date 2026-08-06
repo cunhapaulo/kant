@@ -2,6 +2,7 @@ O Programa de Pós-Graduação em Filosofia e os grupos de pesquisa “Kant e o 
 
 Nossa programação contará com a participação dos professores Heiner Klemme, um dos mais eminentes especialistas em Kant na atualidade e docente da Universität Halle-Wintenberg, e John Walsch, da mesma Universidade. Junto com eles, teremos os professores e organizadores do evento: Luís Eduardo Ramos de Souza e Pedro Paulo da Costa Corôa, e a professora Aline Brasiliense dos Santos Brito. Serão também expositores em mesas de comunicação egressos da Pós-Graduação em Filosofia da UFPA, além de docentes em estágio de finalização de suas pesquisas.
 
-**A organização do VIII Colóquio Kant e o Kantismo**.
-
+<div align="right">
+<strong>A organização do VIII Colóquio Kant e o Kantismo</strong> <br> Belém, agosto de 2026.
+</div>
 [Retornar à Página Inicial](index.md){ .md-button .md-button--primary }
