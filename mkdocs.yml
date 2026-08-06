@@ -1,0 +1,115 @@
+site_name: VIII Colóquio Kant e o Kantismo
+site_url: https://cunhapaulo.github.io/kant
+repo_url: https://github.com/cunhapaulo/MarpX
+
+copyright: Copyright &copy; 2008 - 2026 | Kant e Kantismo (UFPa)
+
+nav:
+  - Início: index.md
+  - Apresentação: apresentacao.md
+  - Convidados: convidados.md
+  - Conferencistas: conferencistas.md
+  - Cronograma: cronograma.md
+  - Eventos Passados: historico.md
+  - Inscrição: inscricao.md
+  # - Estrutura: estrutura.md
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/ufpa.png
+
+  features:
+    - header.autohide
+    - search.highlight
+    - search.suggest
+    - navigation.footer
+    - navigation.expand
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top    
+    - navigation.sections
+    - navigation.instant
+    - navigation.instant.progress
+    - toc.follow
+    - toc.integrate
+    # - navigation.tabs
+
+  font:
+    code: Jetbrains Mono 
+    text: Merriweather Sans
+    # text: Merriweather
+    # text: Raleway
+    # text: Jetbrains Mono
+    # text: Open Sans
+    # text: Libertinus Math
+    # text: Libre Baskerville
+    # text: Fira Sans
+    # text: DM Sans
+
+
+
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      accent: deep purple
+      # primary: black 
+      toggle:
+        icon: material/brightness-6
+        name: Mudar para modo escuro (Switch to dark mode)
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para a preferência do sistema (Switch to system preference)
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences    
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true    
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format      
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://ufpa.br/?sfid=9932&_sf_s=Kantismo
+      name: Kant e o Kantismo no Instagram
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/people/Est%C3%A9tica-Idealismo-e-Romantismo-UFPA/100069753308718/
+      name: Estética, Idealismo e Romantismo - UFPA
+    - icon: fontawesome/brands/x-twitter
+      link: https://ufpa.br/?sfid=9932&_sf_s=Kantismo
+      name: Kant e o Kantismo no Twitter
+  # alternate:
+  #   - name: English
+  #     link: /en/ 
+  #     lang: en
+  #   - name: Deutsch
+  #     link: /de/
+  #     lang: de
+plugins:
+  - search
+  - offline
+  # - privacy
+  # - blog
+
+extra_css:
+  - stylesheets/academic.css  
