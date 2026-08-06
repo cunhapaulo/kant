@@ -1,4 +1,5 @@
 # Colóquio Kant e o Kantismo
 
-Website for a Coloquium about Kant and the Kantism
-Universidade Federal do Pará
+Arquivos do portal para o Colóquio Kant e o Kantismo de 2026 na Universidade Federal do Pará.
+
+Site criado com o MKDocs.
