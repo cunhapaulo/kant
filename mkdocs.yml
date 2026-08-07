@@ -49,10 +49,10 @@ theme:
     # text: DM Sans
 
   palette: 
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Alternar para o modo claro
+    # - media: "(prefers-color-scheme)"
+    #   toggle:
+    #     icon: material/link
+    #     name: Alternar para o modo claro
     - media: "(prefers-color-scheme: light)"
       scheme: default
       primary: indigo
@@ -60,13 +60,13 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Alternar para o modo escuro
-    # - media: "(prefers-color-scheme: dark)"
-    #   scheme: slate
-    #   primary: black
-    #   accent: indigo
-    #   toggle:
-    #     icon: material/toggle-switch-off
-    #     name: Alternar para a preferência do sistema
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off
+        name: Alternar para a preferência do sistema
 
 markdown_extensions:
   - attr_list
@@ -115,6 +115,22 @@ extra:
 plugins:
   - search
   - offline
+  # - i18n:
+  #     docs_structure: suffix
+  #     fallback_to_default: true
+  #     languages:
+  #       - locale: pt
+  #         name: Português
+  #         build: true
+  #         default: true
+  #       - locale: en
+  #         name: English
+  #         build: true
+  #         theme:
+  #           language: en
+  #         nav_translations:
+  #           Início: Home
+  #           Guia: Guide      
   # - privacy
   # - blog
 
