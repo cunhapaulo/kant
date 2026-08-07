@@ -60,13 +60,13 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Alternar para o modo escuro
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off
-        name: Alternar para a preferência do sistema
+    # - media: "(prefers-color-scheme: dark)"
+    #   scheme: slate
+    #   primary: black
+    #   accent: indigo
+    #   toggle:
+    #     icon: material/toggle-switch-off
+    #     name: Alternar para a preferência do sistema
 
 markdown_extensions:
   - attr_list
