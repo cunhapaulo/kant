@@ -1,3 +1,6 @@
+---
+icon: fontawesome/regular/house
+---
 
 <h1 class="event-name"> <strong>VIII</strong> Colóquio Kant e o Kantismo</h1>
 

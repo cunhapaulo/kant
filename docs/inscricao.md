@@ -1,3 +1,9 @@
+---
+icon: material/receipt-text-arrow-right-outline
+---
+
+# :material-receipt-text-arrow-right-outline: Inscrições
+
 
 As inscrições para o Colóquio devem ser liberadas a partir do dia **9 de agosto de 2026** (domingo).
 

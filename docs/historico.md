@@ -1,3 +1,9 @@
+---
+icon: fontawesome/solid/museum
+---
+
+# :fontawesome-solid-museum: Eventos Anteriores
+
 ## 2017 - IV Colóquio Kant e o Kantismo
 
 [![](https://ufpa.br/wp-content/uploads/2024/01/kant.jpg)](https://kantkantismo.wixsite.com/ufpa)
