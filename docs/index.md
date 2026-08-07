@@ -25,7 +25,7 @@ Grupo de Pesquisa Estética, Idealismo e Romantismo Alemão
 
 !!! note "Apoio:"
 
-![](assets/ppgfil.png)
+![](assets/ppgfil2.png)
 ![](assets/capes.png)
 ![](assets/fafil.png)
 ![](assets/ufpa2.png)

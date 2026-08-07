@@ -5,13 +5,14 @@ repo_url: https://github.com/cunhapaulo/kant
 copyright: Copyright &copy; 2008 - 2026 | Kant e o Kantismo (UFPa)
 
 nav:
-  - Início: index.md
+  - Página Inicial: index.md
   - Apresentação: apresentacao.md
   - Convidados: convidados.md
   - Conferencistas: conferencistas.md
   - Cronograma: cronograma.md
   - Eventos Passados: historico.md
   - Inscrições: inscricao.md
+  - PPGFIL 15 anos: ppgfil15.md
   # - Estrutura: estrutura.md
 
 theme:
