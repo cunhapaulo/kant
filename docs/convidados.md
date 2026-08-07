@@ -1,4 +1,3 @@
-
 <div class="convidado">
   <img src="assets/klemme.png"
        alt="Prof. Dr. Heiner Klemme"
@@ -7,7 +6,7 @@
   <div class="bio-convidado">
     <p><strong>Prof. Dr. HEINER KLEMME</strong><br>
     Universidade Halle-Wittenberg</p>
-    <p> - <strong>Comunicação:</strong> "A beleza é a liberdade na aparência"</p>
+    <p> <strong>Comunicação:</strong> "A beleza é a liberdade na aparência"</p>
     
     <blockquote style="font-size: 12pt;">
  
@@ -27,7 +26,7 @@
   <div class="bio-convidado">
     <p><strong>Prof. Dr. JOHN WALSCH</strong><br>
     Universidade Halle-Wittenberg</p>
-    <p> - <strong>Comunicação:</strong> "A definir"</p>
+    <p> <strong>Comunicação:</strong> "A definir"</p>
 
 
     <blockquote style="font-size: 12pt;">
@@ -39,3 +38,6 @@
     </blockquote>
   </div>
 </div>
+
+
+[ :fontawesome-regular-house: Retornar à Página Inicial](index.md){ .md-button .md-button--primary }

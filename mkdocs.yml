@@ -37,8 +37,9 @@ theme:
 
   font:
     code: Jetbrains Mono 
-    text: Merriweather Sans
+    text: Roboto
     # text: Merriweather
+    # text: Merriweather Sans
     # text: Raleway
     # text: Jetbrains Mono
     # text: Open Sans
@@ -47,24 +48,25 @@ theme:
     # text: Fira Sans
     # text: DM Sans
 
-
-
   palette: 
-    # Palette toggle for light mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Alternar para o modo claro
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      accent: deep purple
-      # primary: black 
+      primary: indigo
+      accent: indigo
       toggle:
-        icon: material/brightness-6
-        name: Mudar para modo escuro (Switch to dark mode)
-
-    # Palette toggle for dark mode
+        icon: material/toggle-switch
+        name: Alternar para o modo escuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
+      accent: indigo
       toggle:
-        icon: material/brightness-4
-        name: Mudar para a preferência do sistema (Switch to system preference)
+        icon: material/toggle-switch-off
+        name: Alternar para a preferência do sistema
 
 markdown_extensions:
   - attr_list
@@ -72,6 +74,10 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg        
+
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
@@ -79,6 +85,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences    
   - pymdownx.superfences
+
   - pymdownx.tabbed:
       alternate_style: true    
   - pymdownx.superfences:
@@ -112,4 +119,5 @@ plugins:
   # - blog
 
 extra_css:
-  - stylesheets/academic.css  
+  - stylesheets/academic.css
+  - stylesheets/extra.css  

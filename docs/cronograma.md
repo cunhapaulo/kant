@@ -111,7 +111,7 @@
                 <div class="speaker">PAULO CUNHA</div>
                 <div class="talk-title">"Kant e a Fundamentação da Moral: para além do ceticismo"</div>
                 
-                <div class="speaker">CÁSSIA</div>
+                <div class="speaker">CÁSSIA COSTA</div>
                 <div class="talk-title">"Kant e Schiller e uma nova Fundamentação da Estética e da Filosofia da Arte"</div>
             </td>
         </tr>
@@ -166,5 +166,4 @@
 </html>
 
 
-
-[Retornar à Página Inicial](index.md){ .md-button .md-button--primary }
+[:fontawesome-regular-house: Retornar à Página Inicial](index.md){ .md-button .md-button--primary }

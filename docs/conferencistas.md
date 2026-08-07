@@ -8,7 +8,7 @@
   <div class="bio-convidado">
     <p><strong>Prof. Dr. PEDRO PAULO DA COSTA CORÔA</strong><br>
     Universidade Federal do Pará</p>
-    <p> - <strong>Comunicação:</strong> "Imaginação radical"</p>
+    <p><strong>Comunicação:</strong> "Imaginação radical"</p>
     
     <blockquote style="font-size: 11pt;">
  
@@ -27,7 +27,7 @@
   <div class="bio-convidado">
     <p><strong>Prof. Dr. LUÍS EDUARDO RAMOS DE SOUZA</strong><br>
     Universidade Federal do Pará</p>
-    <p> - <strong>Comunicação:</strong> "Sobre a forma da Crítica da razão pura de Kant"</p>
+    <p><strong>Comunicação:</strong> "Sobre a forma da Crítica da razão pura de Kant"</p>
 
     <blockquote style="font-size: 11pt;">
 
@@ -40,21 +40,40 @@
 ## Doutores
 
 - <span class="speaker">**Dr. ALINE BRASILIENSE DOS SANTOS BRITO** </span><br>
-> <strong>Comunicação:</strong> “Existência e representação: um diálogo entre Kant e a filosofia Sarvāstivāda” <br>
+> <strong>:material-book-open-page-variant:</strong> “Existência e representação: um diálogo entre Kant e a filosofia Sarvāstivāda”
+<br>
+
 
 ## Mestres
 
-
 - <span class="speaker">**MSc. ARTHUR HENRIQUE SOARES SANTOS** </span><br>
-> <strong>Comunicação:</strong> “O argumento de Kant a favor da dependência da prova cosmológica em relação à ontológica” <br>
+> <strong>:material-book-open-page-variant:</strong> “O argumento de Kant a favor da dependência da prova cosmológica em relação à ontológica”
+<br>
 
 - <span class="speaker">**MSc. JOSÉ PEREIRA DO VALE FILHO** </span><br>
-> <strong>Comunicação:</strong> “A natureza do princípio de razão suficiente em Kant: entre a lógica, o transcendental e a metalógica” <br>
+> <strong>:material-book-open-page-variant:</strong> “A natureza do princípio de razão suficiente em Kant: entre a lógica, o transcendental e a metalógica”
+<br>
+
+- <span class="speaker">**MSc. TAILA RIBEIRO** </span><br>
+> <strong>:material-book-open-page-variant:</strong> “Razão e beleza em Kant”
+<br>
+
+- <span class="speaker">**MSc. MARIA CLARA CABRAL** </span><br>
+> <strong>:material-book-open-page-variant:</strong> “O comentário de Hegel em Fé e Saber à Crítica do Juízo de Kant”
+<br>
+
+
 
 ## Mestrandos
 
 - <span class="speaker">**PAULO ROBERTO MARTINS CUNHA** </span><br>
-> "Kant e a Fundamentação da Moral: para além do ceticismo"
+> <strong>:material-book-open-page-variant:</strong> "Kant e a Fundamentação da Moral: para além d
+<br>
+
+- <span class="speaker">**CÁSSIA COSTA** </span><br>
+> <strong>:material-book-open-page-variant:</strong> "Kant e Schiller e uma nova Fundamentação da Estética e da Filosofia d
+<br>
 
 
-[Retornar à Página Inicial](index.md){ .md-button .md-button--primary }
+[:fontawesome-regular-house: Retornar à Página Inicial](index.md){ .md-button .md-button--primary }
+ 

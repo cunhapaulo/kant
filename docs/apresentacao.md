@@ -5,4 +5,4 @@ Nossa programação contará com a participação dos professores Heiner Klemme,
 <div align="right">
 <strong>A organização do VIII Colóquio Kant e o Kantismo</strong> <br> Belém, agosto de 2026.
 </div>
-[Retornar à Página Inicial](index.md){ .md-button .md-button--primary }
+[:fontawesome-regular-house: Retornar à Página Inicial](index.md){ .md-button .md-button--primary }

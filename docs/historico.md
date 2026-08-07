@@ -27,4 +27,4 @@
 [Anuncio ANPOF](https://anpof.org.br/agenda/eventos/vii-coloquio-kant-e-o-kantismo--kant-300-anos-atualidade-e-extemporaneidade) <br>
 [Portal do Coloquio](https://www.even3.com.br/e/vii-coloquio-kant-e-o-kantismo-508494)
 
-[Retornar à Página Inicial](index.md){ .md-button .md-button--primary }
+[:fontawesome-regular-house: Retornar à Página Inicial](index.md){ .md-button .md-button--primary }
