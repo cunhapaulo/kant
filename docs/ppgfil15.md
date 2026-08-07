@@ -15,5 +15,5 @@ icon: material/cake-variant
 ![Logo comemorativo dos 15 anos do PPGFIL](assets/ppgfil15-modificado.png){ width="40%"  height="auto" style="display: block; margin: 0 auto;"}
 
 <center>
-<figcaption><strong>fig. 2</strong> - Logotipo comemorativo pelos 15 anos do PPGFIL.</figcaption>
+<figcaption><strong>fig. 2</strong> - Logotipo comemorativo dos 15 anos do PPGFIL.</figcaption>
 </center>
