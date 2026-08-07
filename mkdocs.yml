@@ -2,7 +2,7 @@ site_name: VIII Colóquio Kant e o Kantismo
 site_url: https://cunhapaulo.github.io/kant
 repo_url: https://github.com/cunhapaulo/kant
 
-copyright: Copyright &copy; 2008 - 2026 | Kant e Kantismo (UFPa)
+copyright: Copyright &copy; 2008 - 2026 | Kant e o Kantismo (UFPa)
 
 nav:
   - Início: index.md
@@ -11,7 +11,7 @@ nav:
   - Conferencistas: conferencistas.md
   - Cronograma: cronograma.md
   - Eventos Passados: historico.md
-  - Inscrição: inscricao.md
+  - Inscrições: inscricao.md
   # - Estrutura: estrutura.md
 
 theme:
@@ -37,7 +37,8 @@ theme:
 
   font:
     code: Jetbrains Mono 
-    text: Roboto
+    text: Fira Sans
+    # text: Roboto
     # text: Merriweather
     # text: Merriweather Sans
     # text: Raleway
@@ -45,7 +46,6 @@ theme:
     # text: Open Sans
     # text: Libertinus Math
     # text: Libre Baskerville
-    # text: Fira Sans
     # text: DM Sans
 
   palette: 

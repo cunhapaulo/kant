@@ -1,5 +1,8 @@
+---
+icon: fontawesome/regular/house
+---
 
-<h1 class="event-name"> <strong>VIII</strong> Colóquio Kant e o Kantismo</h1>
+<h1 class="event-name"> <strong>VIII</strong> <span style="font-weight: bolder">Colóquio Kant e o Kantismo</span></h1>
 
 ## História da Filosofia Alemã: Kant, Wolff e Schiller 
 
