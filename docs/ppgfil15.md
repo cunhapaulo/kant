@@ -17,3 +17,6 @@ icon: material/cake-variant
 <center>
 <figcaption><strong>fig. 2</strong> - Logotipo comemorativo dos 15 anos do PPGFIL.</figcaption>
 </center>
+
+
+[:fontawesome-regular-house: Retornar à Página Inicial](index.md){ .md-button .md-button--primary }

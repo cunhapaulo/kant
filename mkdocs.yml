@@ -1,19 +1,22 @@
 site_name: VIII Colóquio Kant e o Kantismo
+site_description: Kantismo - Colóquio sobre Kant @UFPA
 site_url: https://cunhapaulo.github.io/kant
+
+repo_name: cunhapaulo/kant
 repo_url: https://github.com/cunhapaulo/kant
 
 copyright: Copyright &copy; 2008 - 2026 | Kant e o Kantismo (UFPa)
 
 nav:
-  - Página Inicial: index.md
-  - Apresentação: apresentacao.md
-  - Convidados: convidados.md
-  - Conferencistas: conferencistas.md
-  - Cronograma: cronograma.md
-  - Eventos Passados: historico.md
-  - Inscrições: inscricao.md
-  - PPGFIL 15 anos: ppgfil15.md
-  # - Estrutura: estrutura.md
+  - 'Página Inicial': index.md
+  - 'Apresentação': apresentacao.md
+  - 'Convidados': convidados.md
+  - 'Conferencistas': conferencistas.md
+  - 'Cronograma': cronograma.md
+  - 'Eventos Passados': historico.md
+  - 'Inscrições': inscricao.md
+  - 'PPGFIL 15 anos': 
+      'Logo comemorativa': ppgfil15.md
 
 theme:
   name: material
