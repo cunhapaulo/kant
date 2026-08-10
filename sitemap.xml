@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cunhapaulo.github.io/kant/index.html</loc>
-         <lastmod>2026-08-09</lastmod>
+         <lastmod>2026-08-10</lastmod>
     </url>
     <url>
          <loc>https://cunhapaulo.github.io/kant/apresentacao.html</loc>
-         <lastmod>2026-08-09</lastmod>
+         <lastmod>2026-08-10</lastmod>
     </url>
     <url>
          <loc>https://cunhapaulo.github.io/kant/conferencistas.html</loc>
-         <lastmod>2026-08-09</lastmod>
+         <lastmod>2026-08-10</lastmod>
     </url>
     <url>
          <loc>https://cunhapaulo.github.io/kant/convidados.html</loc>
-         <lastmod>2026-08-09</lastmod>
-    </url>
-    <url>
-         <loc>https://cunhapaulo.github.io/kant/cronograma.html</loc>
-         <lastmod>2026-08-09</lastmod>
+         <lastmod>2026-08-10</lastmod>
     </url>
     <url>
          <loc>https://cunhapaulo.github.io/kant/historico.html</loc>
-         <lastmod>2026-08-09</lastmod>
+         <lastmod>2026-08-10</lastmod>
     </url>
     <url>
          <loc>https://cunhapaulo.github.io/kant/inscricao.html</loc>
-         <lastmod>2026-08-09</lastmod>
+         <lastmod>2026-08-10</lastmod>
+    </url>
+    <url>
+         <loc>https://cunhapaulo.github.io/kant/poster.html</loc>
+         <lastmod>2026-08-10</lastmod>
     </url>
     <url>
          <loc>https://cunhapaulo.github.io/kant/ppgfil15.html</loc>
-         <lastmod>2026-08-09</lastmod>
+         <lastmod>2026-08-10</lastmod>
+    </url>
+    <url>
+         <loc>https://cunhapaulo.github.io/kant/programa.html</loc>
+         <lastmod>2026-08-10</lastmod>
     </url>
 </urlset>
