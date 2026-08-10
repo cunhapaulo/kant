@@ -6,7 +6,10 @@ icon: fontawesome/regular/house
 
 ## História da Filosofia Alemã: Kant, Wolff e Schiller 
 
-![Banner do VIII Colóquio Kant e o Kantismo](assets/banner01.png)
+<!-- ![Banner do VIII Colóquio Kant e o Kantismo](assets/banner01.png) -->
+<!-- ![Banner do VIII Colóquio Kant e o Kantismo](assets/header.png) -->
+<!-- ![Banner do VIII Colóquio Kant e o Kantismo](assets/header2.png) -->
+![Banner do VIII Colóquio Kant e o Kantismo](assets/header1.png)
 
 <span class="event-info">:octicons-calendar-24: Data:</span><br>
 24, 25 e 26 de agosto de 2026 <br>
@@ -21,7 +24,7 @@ Belém - Pará - Brasil <br>
 Grupo de Pesquisa Kant e o Kantismo<br>
 Grupo de Pesquisa Estética, Idealismo e Romantismo Alemão
 
-[:material-transcribe-close: Inscrições](inscricao.md){ .md-button .md-button--primary }
+[:material-transcribe: Inscrições](inscricao.md){ .md-button .md-button--primary }
 
 
 !!! note "Apoio:"

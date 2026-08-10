@@ -2,7 +2,7 @@
 icon: material/calendar-text
 ---
 
-# :material-calendar-text: Cronograma do Evento
+# :material-calendar-text: Programação
 
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -54,13 +54,14 @@ icon: material/calendar-text
             text-align: center !important;
         }
         .mediator {
-            font-size: 12px;
-            color: #7c0000;
+            font-family: arial;
+            font-size: 11px;
+            color: #000000;
             margin-bottom: 15px;
         }
         .speaker {
             font-size: 15px;
-            color: #0f40e4 !important;
+            color: #02238d !important;
             font-weight: bold;
             margin-top: 10px;
         }
@@ -140,7 +141,7 @@ icon: material/calendar-text
                 <div class="speaker">LUÍS EDUARDO DE SOUZA</div>
                 <div class="talk-title">"Sobre a forma da Crítica da razão pura de Kant"</div>
                 
-                <div class="speaker">JOHN WALSCH</div>
+                <div class="speaker">JOHN Walsh</div>
                 <div class="talk-title">"A definir"</div>
             </td>
             <!-- 25.ago -->

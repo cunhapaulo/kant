@@ -6,7 +6,7 @@ icon: material/account-supervisor
 
 <div class="convidado">
   <img src="assets/klemme.png"
-       alt="Prof. Dr. Heiner Klemme"
+       alt="Prof. Dr. HEINER KLEMME"
        class="foto-convidado">
 
   <div class="bio-convidado">
@@ -25,14 +25,14 @@ icon: material/account-supervisor
 
 
 <div class="convidado">
-  <img src="assets/walsch.png"
-       alt="Prof. Dr. JOHN WALSCH"
+  <img src="assets/walsh.png"
+       alt="Prof. Dr. JOHN WALSH"
        class="foto-convidado">
 
   <div class="bio-convidado">
-    <p><strong>Prof. Dr. JOHN WALSCH</strong><br>
+    <p><strong>Prof. Dr. JOHN WALSH</strong><br>
     Universidade Halle-Wittenberg</p>
-    <p> <strong>Comunicação:</strong> "A definir"</p>
+    <p> <strong>Comunicação:</strong> "A Ética do Iluminismo de Wolff"</p>
 
 
     <blockquote style="font-size: 12pt;">

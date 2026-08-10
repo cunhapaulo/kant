@@ -9,14 +9,15 @@ copyright: Copyright &copy; 2008 - 2026 | Kant e o Kantismo (UFPa)
 
 nav:
   - 'Página Inicial': index.md
+  - 'Pôster do Colóquio': poster.md
   - 'Apresentação': apresentacao.md
   - 'Convidados': convidados.md
   - 'Conferencistas': conferencistas.md
-  - 'Cronograma': cronograma.md
-  - 'Eventos Passados': historico.md
+  - 'Programação': programa.md
   - 'Inscrições': inscricao.md
   - 'PPGFIL 15 anos': 
-      'Logo comemorativa': ppgfil15.md
+      - 'Logo comemorativa': ppgfil15.md
+      - 'Eventos Passados': historico.md
 
 theme:
   name: material
@@ -32,11 +33,10 @@ theme:
     - navigation.sections
     - navigation.indexes
     - navigation.top    
-    - navigation.sections
     - navigation.instant
     - navigation.instant.progress
-    - toc.follow
     - toc.integrate
+    - toc.follow
     # - navigation.tabs
 
   font:
@@ -57,13 +57,13 @@ theme:
     #   toggle:
     #     icon: material/link
     #     name: Alternar para o modo claro
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch
-        name: Alternar para o modo escuro
+    # - media: "(prefers-color-scheme: light)"
+    #   scheme: default
+    #   primary: indigo
+    #   accent: indigo
+    #   toggle:
+    #     icon: material/toggle-switch
+    #     name: Alternar para o modo escuro
     # - media: "(prefers-color-scheme: dark)"
     #   scheme: slate
     #   primary: indigo
@@ -74,6 +74,7 @@ theme:
 
 markdown_extensions:
   - attr_list
+  - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span

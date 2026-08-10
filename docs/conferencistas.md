@@ -60,12 +60,16 @@ icon: material/account-voice
 > <strong>:material-book-open-page-variant:</strong> “A natureza do princípio de razão suficiente em Kant: entre a lógica, o transcendental e a metalógica”
 <br>
 
-- <span class="speaker">**MSc. TAILA RIBEIRO** </span><br>
-> <strong>:material-book-open-page-variant:</strong> “Razão e beleza em Kant”
+- <span class="speaker">**MSc. FABIANA BRASIL DOS SANTOS** </span><br>
+> <strong>:material-book-open-page-variant:</strong> “O belo e o juízo estético na terceira crítica de Kant”
 <br>
 
-- <span class="speaker">**MSc. MARIA CLARA CABRAL** </span><br>
+- <span class="speaker">**MSc. MARIA CLARA ALVES CABRAL** </span><br>
 > <strong>:material-book-open-page-variant:</strong> “O comentário de Hegel em Fé e Saber à Crítica do Juízo de Kant”
+<br>
+
+- <span class="speaker">**MSc. TAILA DE ABREU RIBEIRO** </span><br>
+> <strong>:material-book-open-page-variant:</strong> “Razão e beleza em Kant”
 <br>
 
 
@@ -73,12 +77,10 @@ icon: material/account-voice
 ## Mestrandos
 
 - <span class="speaker">**PAULO ROBERTO MARTINS CUNHA** </span><br>
-> <strong>:material-book-open-page-variant:</strong> "Kant e a Fundamentação da Moral: para além d
-<br>
+> <strong>:material-book-open-page-variant:</strong> "Kant e a Fundamentação da Moral: para além do ceticismo"<br>
 
-- <span class="speaker">**CÁSSIA COSTA** </span><br>
-> <strong>:material-book-open-page-variant:</strong> "Kant e Schiller e uma nova Fundamentação da Estética e da Filosofia d
-<br>
+- <span class="speaker">**CÁSSIA KELLY DA SILVA COSTA** </span><br>
+> <strong>:material-book-open-page-variant:</strong> "A descoberta moderna da estética"<br>
 
 
 [:fontawesome-regular-house: Retornar à Página Inicial](index.md){ .md-button .md-button--primary }
