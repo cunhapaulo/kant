@@ -4,12 +4,11 @@ icon: fontawesome/regular/house
 
 <h1 class="event-name"> <strong>VIII</strong> <span style="font-weight: bolder">Colóquio Kant e o Kantismo</span></h1>
 
-## História da Filosofia Alemã: Kant, Wolff e Schiller 
+<span style="font-size:1.7em"> História da Filosofia Alemã: _Kant_, _Wolff_ e _Schiller_ </span>
 
-<!-- ![Banner do VIII Colóquio Kant e o Kantismo](assets/banner01.png) -->
-<!-- ![Banner do VIII Colóquio Kant e o Kantismo](assets/header.png) -->
+<!-- ![Banner do VIII Colóquio Kant e o Kantismo](assets/header1.png) -->
 <!-- ![Banner do VIII Colóquio Kant e o Kantismo](assets/header2.png) -->
-![Banner do VIII Colóquio Kant e o Kantismo](assets/header1.png)
+![Banner do VIII Colóquio Kant e o Kantismo](assets/banner01.png)
 
 <span class="event-info">:octicons-calendar-24: Data:</span><br>
 24, 25 e 26 de agosto de 2026 <br>
@@ -29,11 +28,11 @@ Grupo de Pesquisa Estética, Idealismo e Romantismo Alemão
 
 !!! note "Apoio:"
 
-![](assets/ppgfil2.png)
-![](assets/capes.png)
-![](assets/fafil.png)
-![](assets/ufpa2.png)
-![](assets/propesp.png)
-![](assets/abes.png)
+    ![](assets/ppgfil15-modificado.png){ width="120"  height="auto"}
+    ![](assets/capes.png){ width="120"  height="auto"}
+    ![](assets/fafil.png){ width="120"  height="auto"}
+    ![](assets/ufpa.png){ width="120"  height="auto"}
+    ![](assets/propesp.png){ width="120"  height="auto"}
+    ![](assets/abes.png){ width="120"  height="auto"}
 
 

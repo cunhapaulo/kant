@@ -9,7 +9,6 @@ copyright: Copyright &copy; 2008 - 2026 | Kant e o Kantismo (UFPa)
 
 nav:
   - 'Página Inicial': index.md
-  - 'Pôster do Colóquio': poster.md
   - 'Apresentação': apresentacao.md
   - 'Convidados': convidados.md
   - 'Conferencistas': conferencistas.md
@@ -17,6 +16,8 @@ nav:
   - 'Inscrições': inscricao.md
   - 'PPGFIL 15 anos': 
       - 'Logo comemorativa': ppgfil15.md
+  - Memória:
+      - 'Pôster do Colóquio': poster.md
       - 'Eventos Passados': historico.md
 
 theme:
@@ -40,8 +41,8 @@ theme:
     # - navigation.tabs
 
   font:
-    code: Jetbrains Mono 
-    text: Fira Sans
+    text: "Fira Sans"
+    code: "Jetbrains Mono"
     # text: Roboto
     # text: Merriweather
     # text: Merriweather Sans
@@ -52,7 +53,7 @@ theme:
     # text: Libre Baskerville
     # text: DM Sans
 
-  palette: 
+  # palette: 
     # - media: "(prefers-color-scheme)"
     #   toggle:
     #     icon: material/link
@@ -82,15 +83,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg        
-
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
   - admonition
   - pymdownx.details
-  - pymdownx.superfences    
-  - pymdownx.superfences
-
   - pymdownx.tabbed:
       alternate_style: true    
   - pymdownx.superfences:
