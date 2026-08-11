@@ -6,8 +6,7 @@ icon: fontawesome/regular/house
 
 <span style="font-size:1.7em"> História da Filosofia Alemã: _Kant_, _Wolff_ e _Schiller_ </span>
 
-<!-- ![Banner do VIII Colóquio Kant e o Kantismo](assets/header1.png) -->
-<!-- ![Banner do VIII Colóquio Kant e o Kantismo](assets/header2.png) -->
+
 ![Banner do VIII Colóquio Kant e o Kantismo](assets/banner01.png)
 
 <span class="event-info">:octicons-calendar-24: Data:</span><br>
@@ -28,11 +27,11 @@ Grupo de Pesquisa Estética, Idealismo e Romantismo Alemão
 
 !!! note "Apoio:"
 
-    ![](assets/ppgfil15-modificado.png){ width="120"  height="auto"}
-    ![](assets/capes.png){ width="120"  height="auto"}
-    ![](assets/fafil.png){ width="120"  height="auto"}
-    ![](assets/ufpa.png){ width="120"  height="auto"}
-    ![](assets/propesp.png){ width="120"  height="auto"}
+    ![](assets/ufpa.png){ width="80"  height="auto"}
+    ![](assets/ppgfil15-modificado.png){ width="100"  height="auto"}
+    ![](assets/fafil.png){ width="60"  height="auto"}
+    ![](assets/capes.png){ width="200"  height="auto"}
+    ![](assets/propesp.png){ width="180"  height="auto"}
     ![](assets/abes.png){ width="120"  height="auto"}
 
 
