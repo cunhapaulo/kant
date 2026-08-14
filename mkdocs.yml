@@ -10,15 +10,17 @@ copyright: Copyright &copy; 2008 - 2026 | Kant e o Kantismo (UFPa)
 nav:
   - 'Página Inicial': index.md
   - 'Apresentação': apresentacao.md
-  - 'Convidados': convidados.md
-  - 'Conferencistas': conferencistas.md
-  - 'Programação': programa.mdmkdocs 
+  - 'Programa': programa.md
   - 'Inscrições': inscricao.md
-  - 'PPGFIL 15 anos': 
-      - 'Logo comemorativa': ppgfil15.md
+  - 'Paricipação': 
+    - 'Convidados': convidados.md
+    - 'Professores': professores.md
+    - 'Conferencistas': conferencistas.md
   - Memória:
       - 'Pôster do Colóquio': poster.md
       - 'Eventos Passados': historico.md
+  - 'PPGFIL 15 anos': 
+      - 'Logo comemorativa': ppgfil15.md
 
 theme:
   name: material
@@ -74,6 +76,11 @@ theme:
     #     name: Alternar para a preferência do sistema
 
 markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - attr_list
   - md_in_html
   - pymdownx.highlight:
@@ -97,6 +104,9 @@ markdown_extensions:
 
 extra:
   social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@Kant.Kantismo
+      name: Kant e o Kantismo no YouTube
     - icon: fontawesome/brands/instagram
       link: https://ufpa.br/?sfid=9932&_sf_s=Kantismo
       name: Kant e o Kantismo no Instagram

@@ -6,6 +6,12 @@ icon: fontawesome/regular/house
 
 <span style="font-size:1.7em"> História da Filosofia Alemã: _Kant_, _Wolff_ e _Schiller_ </span>
 
+!!! abstract "ATENÇÃO:  Teremos transmissão ao vivo! :fontawesome-solid-video-camera:" 
+    - As palestras dos professores convidados serão transmitidas ^^ao vivo^^ pelo YouTube.
+    - Os links para as transmissões serão postados aqui, ao longo do evento. 
+    - Aproveite e visite o [canal do grupo no :fontawesome-brands-youtube:{ .youtube } YouTube](https://www.youtube.com/@Kant.Kantismo).
+    
+    <i>Mantenha-se atualizado!</i>
 
 ![Banner do VIII Colóquio Kant e o Kantismo](assets/banner01.png)
 

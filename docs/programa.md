@@ -17,7 +17,7 @@ icon: material/calendar-text
             font-size: 14px;
         }
         th, td {
-            border: 0.5px solid #ccc;
+            border: 0px solid #ccc;
             padding: 12px;
             text-align: center !important;
             vertical-align: middle !important;
@@ -48,6 +48,7 @@ icon: material/calendar-text
         /* Conteúdo das Células */
         .session-title {
             font-weight: bold;
+            color: #8398dd !important;
             text-transform: uppercase;
             font-size: 16px;
             margin-bottom: 8px;
@@ -61,13 +62,13 @@ icon: material/calendar-text
         }
         .speaker {
             font-size: 15px;
-            color: #02238d !important;
+            color: #020f3a !important;
             font-weight: bold;
             margin-top: 10px;
         }
         .talk-title {
             font-size: 14px;
-            color: #5568a7 !important;
+            color: #455485 !important;
             font-style: italic;
             margin-bottom: 10px;
         }
@@ -78,7 +79,7 @@ icon: material/calendar-text
 <table>
     <thead>
         <tr>
-            <th style="border: none; background: #fff;"></th>
+            <th style="border: none; background: #ffffff;"></th>
             <th class="header-24">24.ago.2026<br><span style="font-weight: normal; font-size: 14px;">(segunda-feira)</span></th>
             <th class="header-25">25.ago.2026<br><span style="font-weight: normal; font-size: 14px;">(terça-feira)</span></th>
             <th class="header-26">26.ago.2026<br><span style="font-weight: normal; font-size: 14px;">(quarta-feira)</span></th>
@@ -90,35 +91,35 @@ icon: material/calendar-text
             <td class="time-column">10h00 - 12h00<br><span style="font-weight: normal; font-size: 14px;">(Manhã)</span></td>
             <!-- 24.ago -->
             <td>
-                <div class="session-title">ABERTURA e<br>Sessão de Comunicação I</div>
+                <div class="session-title">ABERTURA e<br>Sessão de <br> Comunicação I</div>
                 <div class="mediator">Mediador:<br>Prof. Dr. LUÍS EDUARDO RAMOS DE SOUZA</div>
                 
-                <div class="speaker">ALINE BRITO</div>
+                <div class="speaker">Aline Brasiliense dos Santos Brito </div>
                 <div class="talk-title">"Existência e representação: um diálogo entre Kant e a filosofia Sarvāstivāda"</div>
                 
-                <div class="speaker">ARTHUR SANTOS</div>
+                <div class="speaker">Arthur Henrique Soares Santos</div>
                 <div class="talk-title">"O argumento de Kant a favor da dependência da prova cosmológica em relação à ontológica"</div>
             </td>
             <!-- 25.ago -->
             <td>
-                <div class="session-title">Sessão de Comunicação III</div>
+                <div class="session-title">Sessão de <br> Comunicação III</div>
                 <div class="mediator">Mediador:<br>Prof. Dr. PEDRO PAULO DA COSTA CORÔA</div>
                 
-                <div class="speaker">TAILA RIBEIRO</div>
+                <div class="speaker">Taila de Abreu Ribeiro </div>
                 <div class="talk-title">"Razão e beleza em Kant"</div>
                 
-                <div class="speaker">MARIA CLARA CABRAL</div>
+                <div class="speaker">Maria Clara Alves Cabral </div>
                 <div class="talk-title">"O comentário de Hegel em Fé e Saber à Crítica do Juízo de Kant"</div>
             </td>
             <!-- 26.ago -->
             <td>
-                <div class="session-title">Sessão de Comunicação V</div>
+                <div class="session-title">Sessão de <br> Comunicação V</div>
                 <div class="mediator">Mediador:<br>Prof. Dr. PEDRO PAULO DA COSTA CORÔA</div>
                 
-                <div class="speaker">PAULO CUNHA</div>
+                <div class="speaker">Paulo Roberto Martins Cunha</div>
                 <div class="talk-title">"Kant e a Fundamentação da Moral: para além do ceticismo"</div>
                 
-                <div class="speaker">CÁSSIA COSTA</div>
+                <div class="speaker">Cássia Kelly da Silva Costa</div>
                 <div class="talk-title">"Kant e Schiller e uma nova Fundamentação da Estética e da Filosofia da Arte"</div>
             </td>
         </tr>
@@ -136,33 +137,33 @@ icon: material/calendar-text
             <td class="time-column" style="background-color: #ff9933;">15h00 - 18h30<br><span style="font-weight: normal; font-size: 14px;">(Tarde)</span></td>
             <!-- 24.ago -->
             <td>
-                <div class="session-title">Sessão de Comunicação II</div>
+                <div class="session-title">Sessão de <br> Comunicação II</div>
                 <br>
-                <div class="speaker">LUÍS EDUARDO DE SOUZA</div>
+                <div class="speaker">Luís Eduardo Ramos de Souza</div>
                 <div class="talk-title">"Sobre a forma da Crítica da razão pura de Kant"</div>
                 
-                <div class="speaker">JOHN Walsh</div>
+                <div class="speaker">John Walsh</div>
                 <div class="talk-title">"A definir"</div>
             </td>
             <!-- 25.ago -->
             <td>
-                <div class="session-title">Sessão de Comunicação IV</div>
+                <div class="session-title">Sessão de <br> Comunicação IV</div>
                 <br>
-                <div class="speaker">PEDRO PAULO CORÔA</div>
+                <div class="speaker">Pedro Paulo da Costa Corôa</div>
                 <div class="talk-title">"Imaginação radical"</div>
                 
-                <div class="speaker">HEINER KLEMME</div>
+                <div class="speaker">Heiner Klemme</div>
                 <div class="talk-title">"A beleza é a liberdade na aparência"</div>
             </td>
             <!-- 26.ago -->
             <td>
-                <div class="session-title">Sessão de Comunicação VI</div>
+                <div class="session-title">Sessão de <br> Comunicação VI</div>
                 <div class="mediator">Mediador:<br>Prof. Dr. LUÍS EDUARDO RAMOS DE SOUZA</div>
                 
-                <div class="speaker">JOSÉ FILHO</div>
+                <div class="speaker">José Pereira do Vale Filho</div>
                 <div class="talk-title">"A natureza do princípio da razão suficiente em Kant: entre a lógica, o transcendental e a metalógica"</div>
                 
-                <div class="speaker">FABIANA BRASIL</div>
+                <div class="speaker">Fabiana Brasil dos Santos</div>
                 <div class="talk-title">"O belo e o juízo estético na terceira crítica"</div>
             </td>
         </tr>
