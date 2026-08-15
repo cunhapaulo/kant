@@ -12,7 +12,7 @@ nav:
   - 'Apresentação': apresentacao.md
   - 'Programa': programa.md
   - 'Inscrições': inscricao.md
-  - 'Paricipação': 
+  - 'Participação': 
     - 'Convidados': convidados.md
     - 'Professores': professores.md
     - 'Conferencistas': conferencistas.md
@@ -28,22 +28,36 @@ theme:
   logo: assets/ufpa.png
 
   features:
+
+    # Header
     - header.autohide
-    - search.highlight
-    - search.suggest
-    - navigation.footer
-    - navigation.expand
+
+    # Navegação
     - navigation.sections
     - navigation.indexes
-    - navigation.top    
     - navigation.instant
     - navigation.instant.progress
-    - toc.integrate
-    - toc.follow
+    - navigation.top    
+    - navigation.footer
+    - navigation.expand
     # - navigation.tabs
 
+    # Sumário
+    - toc.follow
+
+    # Busca
+    - search.highlight
+    - search.suggest
+    - toc.integrate # Congela a posição do sumário na tela, mesmo quando a página é rolada para baixo
+
   font:
-    text: "Fira Sans"
+    # text: "Fira Sans"
+    text: "Merriweather"
+    # text: "Noto Serif"
+    # text: "Noto Sans"
+    # text: "Ubuntu"
+    # text: "Playfair Display"
+    # text: "Inter"
     code: "Jetbrains Mono"
     # text: Roboto
     # text: Merriweather
