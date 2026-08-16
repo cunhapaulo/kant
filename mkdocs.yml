@@ -10,7 +10,7 @@ copyright: Copyright &copy; 2008 - 2026 | Kant e o Kantismo (UFPa)
 nav:
   - 'Página Inicial': index.md
   - 'Apresentação': apresentacao.md
-  - 'Programa': programa.md
+  - 'Programação': programa.md
   - 'Inscrições': inscricao.md
   - 'Participação': 
     - 'Convidados': convidados.md
