@@ -51,8 +51,8 @@ theme:
     - toc.integrate # Congela a posição do sumário na tela, mesmo quando a página é rolada para baixo
 
   font:
-    # text: "Fira Sans"
-    text: "Merriweather"
+    text: "Fira Sans"
+    # text: "Merriweather"
     # text: "Noto Serif"
     # text: "Noto Sans"
     # text: "Ubuntu"
