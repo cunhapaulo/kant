@@ -16,11 +16,14 @@ nav:
     - 'Convidados': convidados.md
     - 'Professores': professores.md
     - 'Conferencistas': conferencistas.md
+  - 'Durante o Evento':
+      - 'Transmissão': transmissao.md
+      - 'Frequência': frequencia.md  
   - Memória:
       - 'Pôster do Colóquio': poster.md
       - 'Eventos Passados': historico.md
-  - 'PPGFIL 15 anos': 
-      - 'Logo comemorativa': ppgfil15.md
+      - 'PPGFIL 15 anos': ppgfil15.md  
+
 
 theme:
   name: material

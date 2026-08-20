@@ -143,7 +143,7 @@ icon: material/calendar-text
                 <div class="talk-title">"Sobre a forma da Crítica da razão pura de Kant"</div>
                 
                 <div class="speaker">John Walsh</div>
-                <div class="talk-title">"A definir"</div>
+                <div class="talk-title">"A Ética do Iluminismo de Wolff"</div>
             </td>
             <!-- 25.ago -->
             <td>

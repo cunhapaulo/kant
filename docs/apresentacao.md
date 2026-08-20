@@ -15,4 +15,13 @@ Nossa programação contará com a participação dos professores Heiner Klemme,
 <div align="right">
 <strong>A organização do VIII Colóquio Kant e o Kantismo</strong> <br> Belém, agosto de 2026.
 </div>
+
+----
+
+English:
+
+The Graduate Program in Philosophy and the research groups “Kant and Kantianism” and “Aesthetics, Idealism, and Romanticism” will host, on August 24, 25, and 26, 2026, the 8th Kant and Kantianism Colloquium, continuing the series of events dedicated to the study of the work of the most important and influential modern philosopher, both in Germany and worldwide; after all, his three Critiques redefined and established the framework within which the fields of philosophy are organized to this day. For the 8th Colloquium, we propose the theme “History of German Philosophy” in light of the diverse interests of our guests and the researchers from the PPGFIL. Among our guests will be an expert on Christian Wolff, which broadens our understanding of German philosophy and connects us with a key figure in Kant’s intellectual formation and in the critical reformulation of philosophical studies in Germany.
+
+Our program will feature Professors Heiner Klemme—one of today’s most eminent experts on Kant and a faculty member at the University of Halle-Wittenberg—and John Walsh, from the same university. Joining them will be the professors and event organizers: Luís Eduardo Ramos de Souza and Pedro Paulo da Costa Corôa, along with Professor Aline Brasiliense dos Santos Brito. Graduates of UFPA’s Graduate Program in Philosophy will also present at the panels, along with faculty members in the final stages of their research.
+
 [:fontawesome-regular-house: Retornar à Página Inicial](index.md){ .md-button .md-button--primary }
