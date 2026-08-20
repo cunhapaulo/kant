@@ -7,7 +7,7 @@ icon: fontawesome/regular/house
 <span style="font-size:1.7em"> História da Filosofia Alemã: _Kant_, _Wolff_ e _Schiller_ </span>
 
 !!! note "TRANSMISSÃO E FREQUÊNCIA" 
-    - [A transmissão (:fontawesome-solid-video-camera: ) será feita ao vivo pelo :fontawesome-brands-youtube:{ .youtube } YouTube](https://www.youtube.com/@Kant.Kantismo/streams).
+    - [Transmissão (:fontawesome-solid-video-camera: ) ao vivo pelo canal do :fontawesome-brands-youtube:{ .youtube } YouTube](transmissao.md){target="_blank" }.
     - [A frequência será feita aqui (link).](frequencia.md)
     
     <i>Mantenha-se atualizado!</i>
