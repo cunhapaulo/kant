@@ -6,11 +6,11 @@ icon: fontawesome/regular/house
 
 <span style="font-size:1.7em"> História da Filosofia Alemã: _Kant_, _Wolff_ e _Schiller_ </span>
 
-!!! note "TRANSMISSÃO E FREQUÊNCIA" 
-    - [Transmissão (:fontawesome-solid-video-camera: ) ao vivo pelo canal do :fontawesome-brands-youtube:{ .youtube } YouTube](transmissao.md){target="_blank" }.
-    - [A frequência será feita aqui (link).](frequencia.md)
-    
-    <i>Mantenha-se atualizado!</i>
+!!! note "Atenção: TRANSMISSÃO E FREQUÊNCIA"
+
+    - [:fontawesome-brands-youtube:{ .youtube } Transmissão ^^ao vivo^^ pelo YouTube](transmissao.md).
+    - [:material-checkbox-marked-outline:{ .youtube } Link para frequência](frequencia.md)
+
 
 ![Banner do VIII Colóquio Kant e o Kantismo](assets/banner01.png)
 
