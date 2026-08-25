@@ -5,7 +5,7 @@ icon: material/file-document-multiple-outline
 # :material-file-document-multiple-outline: Comunicações (Papers)
 
 !!! Warning 
-    - Neste momento, as comunicações não disponibilizadas. 
+    - Neste momento, as comunicações não estão disponíveis. 
     - É intenção da Organização do Colóquio, em breve, publicar as comunicações em um documento definitivo.
 
 |     Autor      |    Idioma     | Título                                         |                                                                                Link                                                                                |

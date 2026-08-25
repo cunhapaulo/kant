@@ -12,7 +12,7 @@ icon: fontawesome/solid/chalkboard-teacher
   <div class="bio-convidado">
     <p><strong>Prof. Dr. PEDRO PAULO DA COSTA CORÔA</strong><br>
     Universidade Federal do Pará</p>
-    <p><strong>Comunicação:</strong> "Imaginação radical"</p>
+    <p><strong>Comunicação:</strong> "A Imaginação Radical: acerca de um paralelo entre Imaginação e Juízo no sistema kantiano"</p>
     
     <blockquote style="font-size: 11pt;">
  
